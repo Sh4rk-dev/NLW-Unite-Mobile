@@ -1,4 +1,4 @@
-# Pass.in - React Native 📱👨🏽‍💻
+## Pass.in - Front-end (Mobile) 📱👨🏽‍💻
 
 O pass.in é uma aplicação de gestão de participantes em eventos presenciais.
 
@@ -8,7 +8,7 @@ Os participantes inscritos podem emitir uma credencial para check-in no dia do e
 
 O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
-# Ferramentas
+## Ferramentas
 <p>Essa foram as ferramentas utilziadas na aplicação ⬇⬇⬇</p>
 
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=blue)
@@ -18,13 +18,17 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ![ZUSTAND](https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge)
 ![NODE](https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=green)
 
-# Resumo
+## Resumo
 
 Desenvolvimento de uma aplicação mobile em React Native, aplicação dos conceitos de Propriedades, 
 Estados e Componentes, tipagem com Typescript, Expo Framework, interface com Native Wind, gerenciamento de estado global com Zustand, 
 roteamento por arquivos com Expo Router, consumo de API Node.js, animações com Moti.
 
-# Imagens do projeto
+## Executando
 
+Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
 
-<img height="320rem" width="180rem" src="file:///C:/Users/renan/Downloads/GetTicket.png"/>
+```sh
+npm install
+npm start
+```
